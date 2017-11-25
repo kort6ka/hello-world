@@ -1,2 +1,4 @@
-country,bigstar,genre
-Europe,no,comedy
+country,bigstar,genre,result
+USA,	yes,	scifi,	Success
+USA,	no	,comedy,	Failure
+USA,	yes,	comedy,	Success
