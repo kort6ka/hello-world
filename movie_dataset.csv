@@ -1,87 +1,87 @@
-name,year,nominations,rating,duration,genre1,genre2,release,metacritic,
- Birdman,2014,9,7.8,119,Comedy,Drama,November,88,
- Gravity,2013,10,7.9,91,Sci-Fi,Thriller,October,96,
- Life of Pi,2012,11,8,127,Adventure,Drama,November,79,
- The Artist,2011,10,8,100,Comedy,Drama,October,89,
- The Kings Speech,2010,12,8,118,Biography,Drama,December,88,
- The Hurt Locker,2009,9,7.6,131,Drama,History,July,94,
- Slumdog Millionaire,2008,10,8,120,Drama,Romance,January,86,
- No Country for Old Men,2007,8,8.1,122,Crime,Drama,November,91,
- The Departed,2006,5,8.5,151,Crime,Drama,October,86,
- Brokeback Mountain,2005,8,7.7,134,Drama,Romance,January,87,
- Million Dollar Baby,2004,7,8.1,132,Drama,Sport,January,86,
- The Lord of the Rings: The Return of the King,2003,11,8.9,201,Adventure,Drama,December,94,
- The Pianist,2002,7,8.5,150,Biography,Drama,January,85,
- A Beautiful Mind,2001,8,8.2,135,Biography,Drama,January,72,
- Traffic,2000,5,7.6,147,Crime,Drama,January,86,
- American Beauty,1999,8,8.4,122,Drama,Romance,October,86,
- Saving Private Ryan,1998,11,8.6,169,Action,Drama,July,90,
- Titanic,1997,14,7.7,194,Drama,Romance,December,74,
- The English Patient,1996,12,7.4,162,Drama,Romance,November,87,
- Braveheart,1995,10,8.4,178,Biography,Drama,May,68,
- Forrest Gump,1994,13,8.8,142,Drama,Romance,July,82,
- Schindlers List,1993,12,8.9,195,Biography,Drama,December,93,
- Unforgiven,1992,10,8.3,131,Western,,August,82,
- The Silence of the Lambs,1991,7,8.6,118,Crime,Drama,February,84,
- Dances with Wolves,1990,12,8,181,Adventure,Drama,November,72,
- Born on the Fourth of July,1989,8,7.2,145,Biography,Drama,January,75,
- Rain Man,1988,8,8,133,Drama,,December,65, 
- The Last Emperor,1987,9,7.8,163,Biography,Drama,October,76,
- Platoon,1986,8,8.1,120,Drama,War,February,,
-Out of Africa,1985,11,7.2,161,Biography,Drama,December,,
- Amadeus,1984,11,8.3,160,Biography,Drama,October,93,
- Terms of Endearment,1983,11,7.4,132,Comedy,Drama,December,79,
- Gandhi,1982,11,8.1,191,Biography,Drama,December,,
- Reds,1981,12,7.5,195,Biography,Drama,December,,
- Ordinary People,1980,6,7.8,124,Drama,,February,85,
- Kramer vs. Kramer,1979,9,7.8,105,Drama,,December,77,
- The Deer Hunter,1978,9,8.2,183,Drama,War,February,73,
- Annie Hall,1977,5,8.1,93,Comedy,Romance,April,,
- Rocky,1976,10,8.1,120,Drama,Sport,December,,
- One Flew Over the Cuckoos Nest,1975,9,8.7,133,Drama,,November,79,
- The Godfather: Part II,1974,11,9,202,Crime,Drama,December,80,
- The Sting,1973,10,8.3,129,Comedy,Crime,December,,
- Cabaret,1972,10,7.9,124,Drama,Musical,February,80,
- The French Connection,1971,8,7.8,104,Action,Crime,October,96,
- Patton,1970,10,8,172,Biography,Drama,April,91,
- Midnight Cowboy,1969,7,7.9,113,Drama,,June,,
- Oliver!,1968,11,7.5,153,Drama,Family,September,,
-The Graduate,1967,7,8,106,Comedy,Drama,December,77,
- A Man for All Seasons,1966,8,7.9,120,Biography,Drama,May,,
- The Sound of Music,1965,10,8,174,Biography,Drama,March,,
- My Fair Lady,1964,12,7.9,170,Drama,Family,December,,
-Tom Jones,1963,10,6.8,128,Adventure,Comedy,December,,
- Lawrence of Arabia,1962,10,8.4,216,Adventure,Biography,January,100,
-West Side Story,1961,11,7.6,152,Crime,Drama,December,,
- The Apartment,1960,10,8.3,125,Comedy,Drama,September,,
- Ben-Hur,1959,12,8.1,212,Adventure,Drama,December,,
- Gigi,1958,9,6.9,115,Comedy,Musical,August,,
- The Bridge on the River Kwai,1957,8,8.2,161,Adventure,Drama,October,,
- Giant,1956,10,7.7,201,Drama,,November,,
- Marty,1955,8,7.7,90,Drama,Romance,June,,
- On the Waterfront,1954,12,8.3,108,Crime,Drama,June,88,
- From Here to Eternity,1953,13,7.8,118,Drama,Romance,October,,
- The Quiet Man,1952,7,7.9,129,Comedy,Drama,September,,
- A Place in the Sun,1951,9,7.8,122,Drama,Film-Noir,October,,
- All About Eve,1950,14,8.3,138,Comedy,Drama,January,,
- A Letter to Three Wives,1949,3,7.9,103,Drama,Romance,January,,
- The Treasure of the Sierra Madre,1948,4,8.3,126,Action,Adventure,January,,
- Gentlemans Agreement,1947,8,7.4,118,Drama,,February,,
- The Best Years of Our Lives,1946,8,8.2,172,Drama,Romance,June,,
- The Lost Weekend,1945,7,8,101,Drama,Film-Noir,November,,
- Going My Way,1944,10,7.3,126,Comedy,Drama,October,,
- Casablanca,1943,8,8.6,102,Drama,Romance,January,,
- Mrs. Miniver,1942,12,7.6,134,Drama,Romance,December,,
- How Green Was My Valley,1941,10,7.8,118,Drama,Family,April,,
- The Grapes of Wrath,1940,7,8.1,129,Drama,,March,,
- Gone With the Wind,1939,13,8.2,238,Drama,Romance,January,,
- You Cant Take it With You,1938,7,8,126,Comedy,Drama,November,,
- The Awful Truth,1937,6,8,91,Comedy,Romance,October,,
- Mr. Deeds Goes to Town,1936,5,8,115,Comedy,Drama,April,,
- The Informer,1935,6,7.6,91,Drama,,July,,
- It Happened One Night,1934,5,8.2,105,Comedy,Romance,February,,
- Cavalcade,1933,4,6.1,112,Drama,Romance,April,,
- Bad Girl,1931,3,6.7,90,Drama,,August,,
- Skippy,1930,4,6.3,85,Family,Drama,April,,
- All Quiet on the Western Front,1929,4,8.1,136,Drama,War,August,,
- The Divine Lady,1928,3,6.3,99,Drama,History,,,
+name,year,nominations,rating,duration,genre1,genre2,release,metacritic
+ Birdman,2014,9,7.8,119,Comedy,Drama,November,88
+ Gravity,2013,10,7.9,91,Sci-Fi,Thriller,October,96
+ Life of Pi,2012,11,8,127,Adventure,Drama,November,79
+ The Artist,2011,10,8,100,Comedy,Drama,October,89
+ The Kings Speech,2010,12,8,118,Biography,Drama,December,88
+ The Hurt Locker,2009,9,7.6,131,Drama,History,July,94
+ Slumdog Millionaire,2008,10,8,120,Drama,Romance,January,86
+ No Country for Old Men,2007,8,8.1,122,Crime,Drama,November,91
+ The Departed,2006,5,8.5,151,Crime,Drama,October,86
+ Brokeback Mountain,2005,8,7.7,134,Drama,Romance,January,87
+ Million Dollar Baby,2004,7,8.1,132,Drama,Sport,January,86
+ The Lord of the Rings: The Return of the King,2003,11,8.9,201,Adventure,Drama,December,94
+ The Pianist,2002,7,8.5,150,Biography,Drama,January,85
+ A Beautiful Mind,2001,8,8.2,135,Biography,Drama,January,72
+ Traffic,2000,5,7.6,147,Crime,Drama,January,86
+ American Beauty,1999,8,8.4,122,Drama,Romance,October,86
+ Saving Private Ryan,1998,11,8.6,169,Action,Drama,July,90
+ Titanic,1997,14,7.7,194,Drama,Romance,December,74
+ The English Patient,1996,12,7.4,162,Drama,Romance,November,87
+ Braveheart,1995,10,8.4,178,Biography,Drama,May,68
+ Forrest Gump,1994,13,8.8,142,Drama,Romance,July,82
+ Schindlers List,1993,12,8.9,195,Biography,Drama,December,93
+ Unforgiven,1992,10,8.3,131,Western,,August,82
+ The Silence of the Lambs,1991,7,8.6,118,Crime,Drama,February,84
+ Dances with Wolves,1990,12,8,181,Adventure,Drama,November,72
+ Born on the Fourth of July,1989,8,7.2,145,Biography,Drama,January,75
+ Rain Man,1988,8,8,133,Drama,,December,65
+ The Last Emperor,1987,9,7.8,163,Biography,Drama,October,76
+ Platoon,1986,8,8.1,120,Drama,War,February,
+Out of Africa,1985,11,7.2,161,Biography,Drama,December,
+ Amadeus,1984,11,8.3,160,Biography,Drama,October,93
+ Terms of Endearment,1983,11,7.4,132,Comedy,Drama,December,79
+ Gandhi,1982,11,8.1,191,Biography,Drama,December,
+ Reds,1981,12,7.5,195,Biography,Drama,December,
+ Ordinary People,1980,6,7.8,124,Drama,,February,85
+ Kramer vs. Kramer,1979,9,7.8,105,Drama,,December,77
+ The Deer Hunter,1978,9,8.2,183,Drama,War,February,73
+ Annie Hall,1977,5,8.1,93,Comedy,Romance,April,
+ Rocky,1976,10,8.1,120,Drama,Sport,December,
+ One Flew Over the Cuckoos Nest,1975,9,8.7,133,Drama,,November,79
+ The Godfather: Part II,1974,11,9,202,Crime,Drama,December,80
+ The Sting,1973,10,8.3,129,Comedy,Crime,December,
+ Cabaret,1972,10,7.9,124,Drama,Musical,February,80
+ The French Connection,1971,8,7.8,104,Action,Crime,October,96
+ Patton,1970,10,8,172,Biography,Drama,April,91
+ Midnight Cowboy,1969,7,7.9,113,Drama,,June,
+ Oliver!,1968,11,7.5,153,Drama,Family,September,
+The Graduate,1967,7,8,106,Comedy,Drama,December,77
+ A Man for All Seasons,1966,8,7.9,120,Biography,Drama,May,
+ The Sound of Music,1965,10,8,174,Biography,Drama,March,
+ My Fair Lady,1964,12,7.9,170,Drama,Family,December,
+Tom Jones,1963,10,6.8,128,Adventure,Comedy,December,
+ Lawrence of Arabia,1962,10,8.4,216,Adventure,Biography,January,100
+West Side Story,1961,11,7.6,152,Crime,Drama,December,
+ The Apartment,1960,10,8.3,125,Comedy,Drama,September,
+ Ben-Hur,1959,12,8.1,212,Adventure,Drama,December,
+ Gigi,1958,9,6.9,115,Comedy,Musical,August,
+ The Bridge on the River Kwai,1957,8,8.2,161,Adventure,Drama,October,
+ Giant,1956,10,7.7,201,Drama,,November,
+ Marty,1955,8,7.7,90,Drama,Romance,June,
+ On the Waterfront,1954,12,8.3,108,Crime,Drama,June,88
+ From Here to Eternity,1953,13,7.8,118,Drama,Romance,October,
+ The Quiet Man,1952,7,7.9,129,Comedy,Drama,September,
+ A Place in the Sun,1951,9,7.8,122,Drama,Film-Noir,October,
+ All About Eve,1950,14,8.3,138,Comedy,Drama,January,
+ A Letter to Three Wives,1949,3,7.9,103,Drama,Romance,January,
+ The Treasure of the Sierra Madre,1948,4,8.3,126,Action,Adventure,January,
+ Gentlemans Agreement,1947,8,7.4,118,Drama,,February,
+ The Best Years of Our Lives,1946,8,8.2,172,Drama,Romance,June,
+ The Lost Weekend,1945,7,8,101,Drama,Film-Noir,November,
+ Going My Way,1944,10,7.3,126,Comedy,Drama,October,
+ Casablanca,1943,8,8.6,102,Drama,Romance,January,
+ Mrs. Miniver,1942,12,7.6,134,Drama,Romance,December,
+ How Green Was My Valley,1941,10,7.8,118,Drama,Family,April,
+ The Grapes of Wrath,1940,7,8.1,129,Drama,,March,
+ Gone With the Wind,1939,13,8.2,238,Drama,Romance,January,
+ You Cant Take it With You,1938,7,8,126,Comedy,Drama,November,
+ The Awful Truth,1937,6,8,91,Comedy,Romance,October,
+ Mr. Deeds Goes to Town,1936,5,8,115,Comedy,Drama,April,
+ The Informer,1935,6,7.6,91,Drama,,July,
+ It Happened One Night,1934,5,8.2,105,Comedy,Romance,February,
+ Cavalcade,1933,4,6.1,112,Drama,Romance,April,
+ Bad Girl,1931,3,6.7,90,Drama,,August,
+ Skippy,1930,4,6.3,85,Family,Drama,April,
+ All Quiet on the Western Front,1929,4,8.1,136,Drama,War,August,
+ The Divine Lady,1928,3,6.3,99,Drama,History,,
